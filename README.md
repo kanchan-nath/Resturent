@@ -1,12 +1,51 @@
-# React + Vite
+# 🍽️ Restaurant Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive restaurant website built using **React v19**. This project showcases a beautiful UI for a restaurant, featuring menu pages, online reservations, and more.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- Built with **React v19**
+- Fully responsive design
+- Interactive menu with categories
+- Online reservation form
+- Google Maps integration for location
+- Contact form
+- Smooth navigation and animations
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React v19, HTML5, CSS3, JavaScript (ES6+)
+- **Routing:** React Router
+- **Styling:** CSS Modules / Tailwind CSS / Styled-Components (choose one)
+- **Form Handling:** React Hook Form
+- **Icons:** React Icons / FontAwesome
+- **Deployment:** Vercel / Netlify / GitHub Pages (choose one)
+
+---
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/your-username/restaurant-website.git
+cd restaurant-website
+npm install
+npm start
+
+restaurant-website/
+├── public/
+├── src/
+│   ├── assets/
+│   ├── components/
+│   ├── pages/
+│   ├── App.js
+│   ├── index.js
+│   └── styles/
+├── .gitignore
+├── package.json
+├── README.md
+
+Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
